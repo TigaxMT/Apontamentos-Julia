@@ -4,6 +4,9 @@ Colocarei aqui todos os notebooks que vou escrevendo com apontamentos retirados 
 
 ***Nota***: Tudo escrito em português !
 
+# Aviso
+Gostava de referir que ler os notebooks direto do Github tem as desvantagem que certas coisas, como alguns simbolos do LaTeX, não são mostrados ou aparecem como "Unknown".
+***Para ler de forma mais confortável e completa, leia as informações abaixo de como utilizar os Jupyter Notebooks.***
 
 # REPL
 
